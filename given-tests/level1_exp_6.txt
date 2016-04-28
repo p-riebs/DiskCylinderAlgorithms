@@ -1,0 +1,12 @@
+#-------------------------------
+# Queue File          : given-tests/level1.txt
+# Num. Disk Cylinders : 200
+# Head Position       : 199
+# Head Direction      : Toward 0
+#-------------------------------
+#   696 	 FCFS
+#   185 	 SSTF
+#   185 	 SCAN
+#   185 	 C-SCAN
+#   185 	 LOOK
+#   185 	 C-LOOK
