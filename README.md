@@ -1,4 +1,4 @@
-# CS441/541 Project 6
+# Disk Cylinder Algorithms
 
 ## Author(s):
 
